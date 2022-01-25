@@ -9,7 +9,7 @@
   4) Steam: [**here**](https://steamcommunity.com/id/UselessStar/)
 
 
-Notes: [^1] [^2]
+Notes: <br>talk to me [^1] <br>steam limited account [^2]
 
 [^1]: You can Talk to me / (Ping me in case of discord) at any time.
 [^2]: It is possible that you cannot talk to me on steam since my account is a limited account.
