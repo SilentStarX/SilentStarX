@@ -5,6 +5,7 @@
 - 👋 Hi, I’m @SilentStarX
 - 👀 I’m interested in: Nothing special
 - 🌱 I’m currently learning: C#
+- 📕 My native language is Spanish, but I understand a little English.
 
 Notes: [^1][^2]
 
