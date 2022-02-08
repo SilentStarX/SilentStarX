@@ -5,8 +5,7 @@
 - 👀 I’m interested in: Nothing special
 - 🌱 I’m currently learning: C#
 - 📕 My native language is Spanish, but I understand a little English.
-
----
+## CURRENT DISCORD STATUS:
 [![Discord Presence](https://lanyard.cnrad.dev/api/399573525138243594?theme=dark&bg=101010&idleMessage=I'm%20probably%20not%20doing%20anything%20or%20fell%20asleep%20😴)](https://discord.com/users/399573525138243594)
 
 Notes: [^1][^2]
