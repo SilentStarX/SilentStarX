@@ -1,5 +1,5 @@
 # INTRODUCTION
-![Discord - Star ★#3610](https://img.shields.io/badge/Discord-Star_★%233610-2760db?logo=discord&logoColor=white&labelColor=222222)
+[![Discord - Star ★#3610](https://img.shields.io/badge/Discord-Star_★%233610-2760db?logo=discord&logoColor=white&labelColor=222222)](https://discordapp.com/users/399573525138243594)
 [![Newgrounds - drvoxs](https://img.shields.io/badge/Newgrounds-drvoxs-ff8c00?logo=1001Tracklists&logoColor=white&labelColor=222222)](https://drvoxs.newgrounds.com/)
 [![Steam - Star](https://img.shields.io/badge/Steam-Star-000025?logo=Steam&logoColor=white&labelColor=222222)](https://steamcommunity.com/id/UselessStar/)
 - 👋 Hi, I’m @SilentStarX
