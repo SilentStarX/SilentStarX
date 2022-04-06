@@ -1,6 +1,6 @@
 # INTRODUCTION
 [![Newgrounds - drvoxs](https://img.shields.io/badge/Newgrounds-drvoxs-ff8c00?logo=1001Tracklists&logoColor=white&labelColor=222222)](https://drvoxs.newgrounds.com/)
-[![Steam - Star](https://img.shields.io/badge/Steam-Star-000025?logo=Steam&logoColor=white&labelColor=222222)](https://steamcommunity.com/id/UselessStar/)
+[![Steam - UselessStar](https://img.shields.io/badge/Steam-Star-000025?logo=Steam&logoColor=white&labelColor=222222)](https://steamcommunity.com/id/UselessStar/)
 - 👋 Hi, I’m @SilentStarX
 - 👀 I’m interested in: Nothing special
 - 🌱 I’m currently learning: C#
