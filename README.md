@@ -10,5 +10,5 @@
 
 Notes: [^1][^2]
 
-[^1]: You can Talk to me / (Ping me in case of discord) at any time (UPDATE: EXCEPT from 3am to 9am CLT).
+[^1]: You can Talk to me / (Ping me in case of discord) at any time.
 [^2]: It is possible that you cannot talk to me on steam since my account is a limited account.
