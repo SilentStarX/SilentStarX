@@ -2,7 +2,7 @@
 [![Newgrounds - drvoxs](https://img.shields.io/badge/Newgrounds-drvoxs-ff8c00?logo=1001Tracklists&logoColor=white&labelColor=222222)](https://drvoxs.newgrounds.com/)
 [![Steam - UselessStar](https://img.shields.io/badge/Steam-UselessStar-000025?logo=Steam&logoColor=white&labelColor=222222)](https://steamcommunity.com/id/UselessStar/)
 - 👋 Hi, I’m @SilentStarX
-- 👀 I’m interested in: Nothing special
+- 👀 I’m interested in: [ADOFAI](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/)
 - 🌱 I’m currently learning: C#
 - 📕 My native language is Spanish, but I understand a little English.
 ## CURRENT DISCORD STATUS:
