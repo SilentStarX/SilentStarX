@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: C#
 - 📕 My native language is Spanish, but I understand a little English.
 ## CURRENT DISCORD STATUS:
-[![Discord Presence](https://lanyard.cnrad.dev/api/399573525138243594?theme=dark&bg=101010&idleMessage=I%27m%20bored%20%2F%20I%27m%20sleeping)](https://discord.com/users/399573525138243594)
+[![Discord Presence](https://lanyard.cnrad.dev/api/399573525138243594?theme=dark&bg=101010&idleMessage=Currently%20not%20doing%20anything)](https://discord.com/users/399573525138243594)
 
 Notes: [^1][^2]
 
