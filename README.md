@@ -8,6 +8,9 @@
 ## CURRENT DISCORD STATUS:
 [![Discord Presence](https://lanyard.cnrad.dev/api/399573525138243594?theme=dark&bg=101010&idleMessage=Currently%20not%20doing%20anything)](https://discord.com/users/399573525138243594)
 
+## STATS XD
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilentStarX&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 Notes: [^1][^2]
 
 [^1]: You can Talk to me / (Ping me in case of discord) at any time.
