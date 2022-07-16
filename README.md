@@ -10,7 +10,7 @@
 
 ## STATS XD (Non-existent)
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="left" alt="Github Stats" width="500" src="https://github-readme-stats.vercel.app/api?username=SilentStarX&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true">
+ <img align="left" alt="Github Stats" width="500" src="https://github-readme-stats.vercel.app/api?username=SilentStarX&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide_border=true">
 </a>
 <br>
 <br>
