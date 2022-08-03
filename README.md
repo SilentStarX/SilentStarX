@@ -9,9 +9,15 @@
 ## CURRENT DISCORD STATUS:
 [![Discord Presence](https://lanyard.cnrad.dev/api/399573525138243594?theme=dark&bg=101010&idleMessage=Currently%20not%20doing%20anything)](https://discord.com/users/399573525138243594)
 
-## STATS XD (Non-existent)
+## STATS
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="left" alt="Github Stats" width="500" src="https://github-readme-stats.vercel.app/api?username=SilentStarX&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide_border=true">
+ <img align="left" alt="Github Stats" width="500" src="https://github-readme-stats.vercel.app/api?username=SilentStarX&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=0px&hide_border=true">
+</a>
+<a href="https://wakatime.com/@UselessStar" target="_blank">
+	<img width="500" align="left" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=UselessStar&border_radius=0px&theme=dark&bg_color=151515&border_color=1f1f1f&icon_color=58a6ff&hide_border=true&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats">
+</a>
+<a href="./">
+  <img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentStarX&langs_count=10&border_radius=0px&theme=dark&hide_border=true" />
 </a>
 <br>
 <br>
