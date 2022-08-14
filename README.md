@@ -16,9 +16,6 @@
 <a href="https://wakatime.com/@UselessStar" target="_blank">
 	<img width="500" align="left" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=UselessStar&border_radius=0px&theme=dark&bg_color=151515&border_color=1f1f1f&icon_color=58a6ff&hide_border=true&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats">
 </a>
-<a href="./">
-  <img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentStarX&langs_count=10&border_radius=0px&theme=dark&hide_border=true" />
-</a>
 <br>
 <br>
 
