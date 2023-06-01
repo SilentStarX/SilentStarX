@@ -4,7 +4,7 @@
 [![wakatime](https://wakatime.com/badge/user/77f7cb94-69f4-466c-8c5f-05c03660e31a.svg?style=flat)](https://wakatime.com/@77f7cb94-69f4-466c-8c5f-05c03660e31a)
 - 👋 Hi, I’m @SilentStarX
 - 👀 I’m interested in: [ADOFAI](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/)
-- 🌱 I’m currently learning: C#
+- 🌱 I’m currently learning: Typescript (C# Before but i got a little stressed)
 - 📕 My native language is Spanish, but I understand a little English.
 ## CURRENT DISCORD STATUS:
 [![Discord Presence](https://lanyard.cnrad.dev/api/399573525138243594?theme=dark&bg=101010&idleMessage=Currently%20not%20doing%20anything)](https://discord.com/users/399573525138243594)
