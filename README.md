@@ -3,7 +3,7 @@
 [![Steam - UselessStar](https://img.shields.io/badge/Steam-UselessStar-000025?logo=Steam&logoColor=white&labelColor=222222)](https://steamcommunity.com/id/UselessStar/)
 [![wakatime](https://wakatime.com/badge/user/77f7cb94-69f4-466c-8c5f-05c03660e31a.svg?style=flat)](https://wakatime.com/@77f7cb94-69f4-466c-8c5f-05c03660e31a)
 - 👋 Hi, I’m @SilentStarX
-- 👀 I’m interested in: [ADOFAI](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/)
+- 🎮 I play: [ADOFAI](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/) & [Terraria](https://store.steampowered.com/app/105600/Terraria/)
 - 🌱 I’m currently learning: Typescript (C# Before but i got a little stressed)
 - 📕 My native language is Spanish, but I understand a little English.
 ## CURRENT DISCORD STATUS:
@@ -22,4 +22,4 @@
 Notes: [^1][^2]
 
 [^1]: You can Talk to me / (Ping me in case of discord) at any time.
-[^2]: It is possible that you cannot talk to me on steam since my account is a limited account.
+[^2]: I̶t̶ i̶s̶ p̶o̶s̶s̶i̶b̶l̶e̶ t̶h̶a̶t̶ y̶o̶u̶ c̶a̶n̶n̶o̶t̶ t̶a̶l̶k̶ t̶o̶ m̶e̶ o̶n̶ s̶t̶e̶a̶m̶ s̶i̶n̶c̶e̶ m̶y̶ a̶c̶c̶o̶u̶n̶t̶ i̶s̶ a̶ l̶i̶m̶i̶t̶e̶d̶ a̶c̶c̶o̶u̶n̶t̶.  (Not limited anymore).
